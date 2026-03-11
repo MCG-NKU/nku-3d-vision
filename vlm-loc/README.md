@@ -16,11 +16,8 @@ Official implementation of the following publication:
 </p>
 
 <p align="center">
-  <span style="display:inline-block; background-color:white; padding:12px; border-radius:8px;">
-    <img src="./assets/figure_1.png" alt="Illustration" width="70%">
-  </span>
+  <img src="./assets/figure_1.png" alt="Illustration" width="100%">
 </p>
-
 <p align="justify">
 <strong>Abstract:</strong>
 Text-to-point-cloud (T2P) localization aims to infer precise spatial positions within 3D point cloud maps from natural language descriptions, reflecting how humans perceive and communicate spatial layouts through language. However, existing methods largely rely on shallow text-point cloud correspondence without effective spatial reasoning, limiting their accuracy in complex environments. To address this limitation, we propose VLM-Loc, a framework that leverages the spatial reasoning capability of large vision-language models (VLMs) for T2P localization. Specifically, we transform point clouds into bird’s-eye-view (BEV) images and scene graphs that jointly encode geometric and semantic context, providing structured inputs for the VLM to learn cross-modal representations bridging linguistic and spatial semantics. On top of these representations, we introduce a partial node assignment mechanism that explicitly associates textual cues with scene graph nodes, enabling interpretable spatial reasoning for accurate localization. To facilitate systematic evaluation across diverse scenes, we present CityLoc, a benchmark built from multi-source point clouds for fine-grained T2P localization. Experiments on CityLoc demonstrate VLM-Loc achieves superior accuracy and robustness compared to state-of-the-art methods.
