@@ -6,8 +6,8 @@ Official implementation of the following publication:
 
 > **VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models**<br/>
 > [Shuhao Kang](https://kang-1-2-3.github.io/), [Youqi Liao](https://martin-liao.github.io/), [Peijie Wang](https://scholar.google.com/citations?user=jUitttEAAAAJ&hl=zh-CN), [Wenlong Liao](https://scholar.google.com/citations?hl=en&user=7DqW7gIAAAAJ), [Qilin Zhang](https://www.linkedin.com/in/qilin-zhang-807480261/), [Benjamin Busam](https://www.professoren.tum.de/en/busam-benjamin), [Xieyuanli Chen†](https://chen-xieyuanli.github.io/), [Yun Liu†](https://yun-liu.github.io/)<br/>
-> *CVPR 2026*<br/>
-> **Paper** | [**Arxiv**](https://arxiv.org/abs/2603.09826)
+> *CVPR 2026 Highlight*<br/>
+> [**Paper**](https://openaccess.thecvf.com/content/CVPR2026/papers/Kang_VLM-Loc_Localization_in_Point_Cloud_Maps_via_Vision-Language_Models_CVPR_2026_paper.pdf) | [**Arxiv**](https://arxiv.org/abs/2603.09826)
 
 ## 🔭 Introduction
 
@@ -133,18 +133,19 @@ CityLoc-K is used for training and validation, while the remaining data is used 
 
 Training can be performed on 2 × RTX 4090 GPUs with Qwen3-VL-8B. The batch size can be increased if more GPUs are available.
 
-<!-- ## 💡 Citation
+## 💡 Citation
 
 If this repository is helpful, please consider giving it a star. If this project benefits your work, please consider citing VLM-Loc.
 
 ```bibtex
-@article{kang2025opal,
-  title={Opal: Visibility-aware lidar-to-openstreetmap place recognition via adaptive radial fusion},
-  author={Kang, Shuhao and Liao, Martin Y and Xia, Yan and Wysocki, Olaf and Jutzi, Boris and Cremers, Daniel},
-  journal={arXiv preprint arXiv:2504.19258},
-  year={2025}
+@inproceedings{kang2026vlm,
+  title={VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models},
+  author={Kang, Shuhao and Liao, Youqi and Wang, Peijie and Liao, Wenlong and Zhang, Qilin and Busam, Benjamin and Chen, Xieyuanli and Liu, Yun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={41365--41375},
+  year={2026}
 }
-``` -->
+```
 
 ## 🙏 Acknowledgements
 
