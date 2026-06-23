@@ -23,3 +23,9 @@ If this repository is helpful, please consider giving it a star. If this project
   year={2026}
 }
 ```
+
+## Maintainers
+
+This repository is maintained by the Media Computing Lab, Nankai University. New 3D vision projects will be added as independent subdirectories.
+
+VLM-Loc contact: [kang-1-2-3](https://github.com/kang-1-2-3) (<kangshuhao1@163.com>).
