@@ -6,9 +6,9 @@ This repository collects code, data preparation scripts, evaluation tools, and p
 
 ## 📁 Projects
 
-| Folder | Publication |
-| --- | --- |
-| [`vlm-loc`](./vlm-loc) | **VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models** (CVPR 2026 Highlight) |
+| Folders | Publications | Venues |
+| --- | --- | --- |
+| [`vlm-loc`](./vlm-loc) | VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models | CVPR 2026 (Highlight) |
 
 ## 💡 Citations
 
