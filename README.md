@@ -10,7 +10,7 @@ This repository collects code, data preparation scripts, evaluation tools, and p
 | --- | --- |
 | [`vlm-loc`](./vlm-loc) | **VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models** (CVPR 2026 Highlight) |
 
-## 💡 Citation
+## 💡 Citations
 
 If this repository is helpful, please consider giving it a star. If this project benefits your work, please consider citing the corresponding paper.
 
